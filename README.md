@@ -75,7 +75,7 @@ leaves (lid, uid, subject, message, status);
 4. Admin Schema –
 admins (id, name, email, password, mobile);
 
-## Screenshots of Project
+# Screenshots of Project
 ----------------------------
 # User Login & Registration Page -
 
