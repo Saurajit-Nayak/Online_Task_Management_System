@@ -32,9 +32,9 @@
 </head>
 <body>
     <div class="row">
-        <div class="col-md-3 m-auto" id="home_page">
+        <div class="col-md-3 m-auto" id="home_page" style="display:flex; flex-direction:column;align-items:center; height:37vh; width:50vw;">
             <center>
-                <h3>Update task status</h3>
+                <h3 style="width:20vw">Update task status</h3>
                 <?php 
                     $query = "select * from tasks where tid = $_GET[id]";
                     $query_run = mysqli_query($connection,$query);
