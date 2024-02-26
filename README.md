@@ -79,11 +79,12 @@ admins (id, name, email, password, mobile);
 
 # ER- Diagram
 
-<img width="290" alt="Er_Online" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/b0d7ea57-1258-49b5-88ec-dc5be9fc7d9e">
+<img width="816" alt="Er_fi" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/1a651021-ef4d-4837-9054-62e3ae4110ec">
 
-# DFD
+# DFD Diagram
 
-<img width="345" alt="Dfd-on" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/dc48ef65-7420-49e6-82e6-57c3a3952735">
+<img width="835" alt="DfD Di" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/3db9a73e-02be-4161-965a-9e89d924a11f">
+
 
 # User Dashboard
 
