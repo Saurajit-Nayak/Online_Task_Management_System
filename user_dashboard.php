@@ -59,7 +59,7 @@
         <div class="row" id="header">
             <div class="col-md-12">
                 <div class="col-md-4" style="display: inline-block;">
-                    <h3><i class=" fa fa-solid fa-list" style="padding-right: 15px;"></i> Task Management System</h3>
+                    <h3 class="Nav"><i class=" fa fa-solid fa-list" style="padding-right: 15px;"></i> Task Management System</h3>
                 </div>
                 <div class="col-md-6" style="text-align: right;display: inline-block;">
                     <b>Email: </b><?php echo $_SESSION['email']; ?>
