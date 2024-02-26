@@ -75,14 +75,24 @@ leaves (lid, uid, subject, message, status);
 4. Admin Schema –
 admins (id, name, email, password, mobile);
 
-# Screenshots of Project
-User Login & Registration Page -
+## Screenshots of Project
+----------------------------
+# User Login & Registration Page -
+
 ![User_login_reg](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/6bd2354d-40c2-4d8a-a718-b1549228f4a0)
-User Tasks -
+
+# User Tasks -
+
 ![user_task](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/852003eb-0f97-4d57-a963-65cab3b281e9)
-Admin Login -
+
+# Admin Login -
+
 ![Admin_login](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/4abee810-56e9-46eb-9ec8-11dfd020bd20)
-Admin Tasks -
+
+# Admin Tasks -
+
 ![Admin_task](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/f0de68b0-fea5-4ed0-918a-b79ba6143256)
-Database -
+
+# Database -
+
 <img width="928" alt="Database" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/2ea8a77e-9dbd-419e-9e6c-66534d3ce8aa">
