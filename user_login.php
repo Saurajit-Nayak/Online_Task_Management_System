@@ -35,8 +35,8 @@
 </head>
 <body>
     <div class="row">
-        <div class="col-md-4 m-auto text-center" id="login_home_page">
-            <h3 style="background-color: #5A8F7B; padding: 10px; width: 15vw; margin: 0 auto;">User login</h3>
+        <div class="col-md-4 m-auto text-center" id="login_home_page" style="display: flex; flex-direction:column;align-items:center">
+            <h3 style="background-color: #5A8F7B; padding: 10px; width: 15vw; margin-bottom:2px auto; ">User login</h3>
             <form action="" method="post">
                 <div class="form-group">
                     <input type="text" class="form-control" name="email" placeholder="Enter Email" required>
@@ -48,7 +48,7 @@
                     <input type="submit" class="btn btn-warning" name="userlogin" value="Login">
                 </div>
             </form>
-            <a href="index.php" class="btn btn-danger">Go to Home</a>
+            <a href="index.php" class="btn btn-danger" style="position:absolute; bottom:7px">Go to Home</a>
         </div>
     </div>
 </body>
