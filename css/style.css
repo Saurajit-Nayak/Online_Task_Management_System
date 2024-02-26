@@ -32,11 +32,22 @@ body{
 }
 #header{
     background-color: #D4F6CC;
-    height: 8vh;
+    height: 10vh;
     width: 101vw;
     padding-top: 10px;
     padding-bottom: 5px;
     padding-left: 50px;
+
+}
+/*change*/
+#header.col-md-12
+{   
+    display:flex;
+    align-items: center;
+}
+.Nav
+{
+    width:32vw;
 }
 #left_sidebar{
     /*background-color: #5A8F7B;*/
