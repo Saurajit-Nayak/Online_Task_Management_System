@@ -79,7 +79,7 @@ admins (id, name, email, password, mobile);
 ----------------------------
 # User Login & Registration Page -
 
-![User_login_reg](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/6bd2354d-40c2-4d8a-a718-b1549228f4a0)
+![resize-Login_reg](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/5b36fe69-ced2-44cf-9329-de5eedcc33d0)
 
 # User Tasks -
 
