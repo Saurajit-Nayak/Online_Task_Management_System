@@ -75,23 +75,47 @@ leaves (lid, uid, subject, message, status);
 4. Admin Schema –
 admins (id, name, email, password, mobile);
 
-# Screenshots of Project
-----------------------------
-# User Login & Registration Page -
+## Screenshots of Project
 
-![resize-Login_reg](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/5b36fe69-ced2-44cf-9329-de5eedcc33d0)
+# ER- Diagram
 
-# User Tasks -
+<img width="290" alt="Er_Online" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/b0d7ea57-1258-49b5-88ec-dc5be9fc7d9e">
 
-![user_task](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/852003eb-0f97-4d57-a963-65cab3b281e9)
+# DFD
 
-# Admin Login -
+<img width="345" alt="Dfd-on" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/dc48ef65-7420-49e6-82e6-57c3a3952735">
 
-![Admin_login](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/4abee810-56e9-46eb-9ec8-11dfd020bd20)
+# User Dashboard
 
-# Admin Tasks -
+<img width="954" alt="Dashboard_us" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/bb204061-8895-4741-8c2c-a13ac0b93403">
 
-![Admin_task](https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/f0de68b0-fea5-4ed0-918a-b79ba6143256)
+# User Registration Section
+
+<img width="830" alt="User_reg" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/f1187977-efa0-4dd0-ae04-6c44006eb09e">
+
+# User Login Section -
+
+<img width="832" alt="User_login_pasection" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/e0ec4e94-d252-49df-b0b8-dbbd23e98c72">
+
+# User Task Updation Section
+
+<img width="951" alt="Updation_task" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/1685c0c4-b591-472f-a257-e4352fe7213b">
+
+# Admin DashBoard
+
+<img width="940" alt="Admin_dash" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/ef01d4cd-5404-4fbd-a7e9-55c2dce16fa3">
+
+# Admin Login 
+
+<img width="817" alt="Admin_login" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/5ffa50e4-5fa0-4cda-b382-7da170f7a103">
+
+# Admin Task Creation
+
+<img width="947" alt="Task_create" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/cd0c33d5-6d36-47cd-a223-fc5147693f98">
+
+# Admin Manage Task
+
+<img width="938" alt="Manage task_ad" src="https://github.com/Saurajit-Nayak/Online_Task_Management_System/assets/129572543/738d028e-2753-4f07-97f8-56114009e705">
 
 # Database -
 
